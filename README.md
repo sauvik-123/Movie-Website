@@ -10,6 +10,13 @@
   allowing users to search and manage a personalized favorites list.
 </p>
 
+<p align="center">
+  🌍 <strong>Live Demo:</strong><br/>
+  👉 <a href="https://sauvik-123.github.io/Movie-Website/" target="_blank">
+  https://sauvik-123.github.io/Movie-Website/
+  </a>
+</p>
+
 ---
 
 ## 🚀 Features
