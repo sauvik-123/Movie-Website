@@ -12,7 +12,7 @@
 
 <p align="center">
   🌍 <strong>Live Demo:</strong><br/>
-  👉 <a href="https://sauvik-123.github.io/Movie-Website/" target="_blank">
+  👉 <a href="[https://sauvik-123.github.io/Movie-Website/](https://movie-website-lake-ten.vercel.app/)" target="_blank">
   https://sauvik-123.github.io/Movie-Website/
   </a>
 </p>
